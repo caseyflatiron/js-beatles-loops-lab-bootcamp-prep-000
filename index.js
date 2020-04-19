@@ -21,5 +21,4 @@ function iLoveTheBeatles(g){
   let beatlesArray = []
   do {beatlesArray.push("I love the Beatles!")}
   while (g > 5);
-  else { "none" }
 }
