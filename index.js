@@ -5,6 +5,8 @@ function theBeatlesPlay(arrayMusicians, arrayInstruments){
   arrayNew.push(`${arrayMusicians[i]} plays ${arrayInstruments[i]}`);
   }
   return arrayNew
+  else
+  puts 'Contact not found'
 }
 
 function johnLennonFacts(array) {
