@@ -1,4 +1,5 @@
 var arrayNew = []
+console.log("working")
 
 function theBeatlesPlay(arrayMusicians, arrayInstruments){
   for (let i = 0; i < 4; i++){
