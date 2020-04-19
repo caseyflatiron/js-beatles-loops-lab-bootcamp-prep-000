@@ -3,10 +3,9 @@ var arrayNew = []
 function theBeatlesPlay(arrayMusicians, arrayInstruments){
   for (let i = 0; i < 4; i++){
   arrayNew.push(`${arrayMusicians[i]} plays ${arrayInstruments[i]}`);
+  else return "not found"
   }
   return arrayNew
-  else
-  puts 'Contact not found'
 }
 
 function johnLennonFacts(array) {
