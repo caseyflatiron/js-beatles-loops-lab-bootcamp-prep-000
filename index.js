@@ -18,8 +18,8 @@ function johnLennonFacts(array) {
 return arrayNew2
 }
 
-// function iLoveTheBeatles(g){
-//   let beatlesArray = []
-//   do {beatlesArray.push("I love the Beatles!")}
-//   while (g > 5);
-// }
+function iLoveTheBeatles(g){
+  let beatlesArray = []
+  do {beatlesArray.push("I love the Beatles!")}
+  while (g > 5);
+}
