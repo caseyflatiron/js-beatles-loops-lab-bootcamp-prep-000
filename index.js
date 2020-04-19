@@ -20,6 +20,6 @@ return arrayNew2
 function iLoveTheBeatles(g){
   let beatlesArray = []
   do {beatlesArray.push("I love the Beatles!")}
-  while (g > 5);
+  while (g < 15);
   return beatlesArray
 }
