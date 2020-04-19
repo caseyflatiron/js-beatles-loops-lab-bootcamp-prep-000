@@ -19,7 +19,9 @@ return arrayNew2
 }
 
 function iLoveTheBeatles(g){
-  var beatlesArray = []
+  let beatlesArray = []
   do {beatlesArray.push("I love the Beatles!")}
   while (g > 5);
+}
+return beatlesArray
 }
