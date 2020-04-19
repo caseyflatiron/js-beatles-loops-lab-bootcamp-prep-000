@@ -19,7 +19,9 @@ return arrayNew2
 
 function iLoveTheBeatles(g){
   let beatlesArray = []
+  var count = g
   do {beatlesArray.push("I love the Beatles!")}
   while (g < 15);
+  count++
   return beatlesArray
 }
