@@ -1,5 +1,5 @@
-var arrayNew = []
-console.log("working")
+// var arrayNew = []
+// console.log("working")
 
 // function theBeatlesPlay(arrayMusicians, arrayInstruments){
 //   for (let i = 0; i < 4; i++){
@@ -18,8 +18,8 @@ console.log("working")
 // return arrayNew2
 // }
 
-function iLoveTheBeatles(g){
-  let beatlesArray = []
-  do {beatlesArray.push("I love the Beatles!")}
-  while (g > 5);
-}
+// function iLoveTheBeatles(g){
+//   let beatlesArray = []
+//   do {beatlesArray.push("I love the Beatles!")}
+//   while (g > 5);
+// }
