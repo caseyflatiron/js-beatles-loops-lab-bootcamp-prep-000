@@ -3,7 +3,6 @@ var arrayNew = []
 function theBeatlesPlay(arrayMusicians, arrayInstruments){
   for (let i = 0; i < 4; i++){
   arrayNew.push(`${arrayMusicians[i]} plays ${arrayInstruments[i]}`);
-  else return "not found"
   }
   return arrayNew
 }
@@ -22,4 +21,6 @@ function iLoveTheBeatles(g){
   let beatlesArray = []
   do {beatlesArray.push("I love the Beatles!")}
   while (g > 5);
+}
+return beatlesArray
 }
